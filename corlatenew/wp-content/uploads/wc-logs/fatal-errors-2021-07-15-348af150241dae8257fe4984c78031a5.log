@@ -1,0 +1,8 @@
+2021-07-15T08:11:32+00:00 CRITICAL Uncaught Error: Call to undefined function dynamic_sidembar() in D:\xammp\htdocs\corlatenew\wp-content\themes\corlatenew\page-shop.php:24
+Stack trace:
+#0 D:\xammp\htdocs\corlatenew\wp-includes\template-loader.php(106): include()
+#1 D:\xammp\htdocs\corlatenew\wp-blog-header.php(19): require_once('D:\\xammp\\htdocs...')
+#2 D:\xammp\htdocs\corlatenew\index.php(17): require('D:\\xammp\\htdocs...')
+#3 {main}
+  thrown in D:\xammp\htdocs\corlatenew\wp-content\themes\corlatenew\page-shop.php on line 24
+
